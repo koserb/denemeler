@@ -4,11 +4,10 @@
   <title>My Audio</title>
 </head>
 <body>
-  <audio src="muzik.mp3" id="my_audio" loop="loop"></audio>
-  <script type="text/javascript">
-    setTimeout(function(){
-      document.getElementById("my_audio").play();
-    },1000)
+<iframe src="muzik.mp3" allow="autoplay" id="audio" style="display:none">
+<audio id="player" autoplay loop>
+    <source src="muzik.mp3" type="audio/mp3">
+</audio></iframe>
   </script>
 </body>
 </html>
