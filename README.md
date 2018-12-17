@@ -5,4 +5,4 @@ denemeler
 <br>
 [deneme2](https://koserb.github.io/denemeler/connectFour.html)
 <br>
-[ses](https://koserb.github.io/denemeler/ses.html)
+[son](https://koserb.github.io/denemeler/ilkSayfa.html)
