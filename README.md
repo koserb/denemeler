@@ -1,7 +1,7 @@
 # denemeler
 denemeler
 <br>
-[deneme1](https://koserb.github.io/denemeler/projeDeneme.html)
+[proje](https://koserb.github.io/denemeler/proje/projeDeneme.html)
 <br>
 [deneme2](https://koserb.github.io/denemeler/connectFour.html)
 <br>
