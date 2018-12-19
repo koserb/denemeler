@@ -3,6 +3,8 @@ denemeler
 <br>
 [proje](https://koserb.github.io/denemeler/proje/projeDeneme.html)
 <br>
+[olamayanproje](https://koserb.github.io/denemeler/proje2/projeDeneme.html)
+<br>
 [deneme2](https://koserb.github.io/denemeler/connectFour.html)
 <br>
 [son](https://koserb.github.io/denemeler/ilkSayfa.html)
