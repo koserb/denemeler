@@ -10,3 +10,5 @@ denemeler
 [son2](https://koserb.github.io/denemeler/projeDeneme3.html)
 <br>
 [son3](https://koserb.github.io/denemeler/projeDeneme4.html)
+<br>
+[inşcinim](https://koserb.github.io/denemeler/projeDenemeTahtasi.html)
